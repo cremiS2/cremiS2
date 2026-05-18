@@ -102,7 +102,7 @@ motto: "Always improving and learning."
 
 <br>
 
-<div align="left">
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=dark&background=0D1117&ring=6B01FF&fire=6B01FF&currStreakLabel=6B01FF&border=6B01FF"/>
 
