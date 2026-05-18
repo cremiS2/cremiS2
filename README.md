@@ -100,14 +100,6 @@ motto: "Always improving and learning."
 
 ## 📊 GitHub Stats
 
-<div align="left">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cremiS2&show_icons=true&theme=dark&bg_color=0D1117&title_color=6B01FF&icon_color=6B01FF&border_color=6B01FF&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cremiS2&layout=compact&theme=dark&bg_color=0D1117&title_color=6B01FF&border_color=6B01FF&text_color=FFFFFF"/>
-
-</div>
-
 <br>
 
 <div align="left">
