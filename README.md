@@ -2,15 +2,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6B01FF&size=30&center=true&vCenter=true&width=1000&lines=💻+Systems+Development+Student;⚙️+Backend+Developer+Enthusiast;⚙️+Database+Analytic;📍+Penha,+SP+—+Senai;🎯+Always+Learning+New+Technologies;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+  
 ---
 
 ## 🌐 Connect with me
 
-<a href="" target="_blank">
-<img src=""/>
+<a href="https://www.linkedin.com/in/rafael-cremasco074/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 ---
+</div>
 
 ## 👨‍💻 About Me
 
@@ -39,9 +42,9 @@ motto: "Always improving and learning."
 <div align="left">
 
 <img src="https://img.shields.io/badge/Backend-6B01FF?style=for-the-badge&logo=serverfault&logoColor=white"/>
-<img src="https://img.shields.io/badge/Programming-7D2AFF?style=for-the-badge&logo=codefactor&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-5A00CC?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web%20Development-8A3DFF?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-5A00CC?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQL-5A00CC?style=for-the-badge&logo=sql&logoColor=white"/>
 
 </div>
 
@@ -55,20 +58,8 @@ motto: "Always improving and learning."
 <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=6B01FF&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=6B01FF&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=6B01FF&labelColor=0D1117"/>
-
-</div>
-
----
-
-## 📚 Other Knowledge
-
-<div align="left">
-
 <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=6B01FF&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=6B01FF&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=6B01FF&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=6B01FF&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=6B01FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&logoColor=6B01FF&labelColor=0D1117"/>
 
 </div>
 
@@ -81,6 +72,9 @@ motto: "Always improving and learning."
 <img src="https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=6B01FF&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=6B01FF&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=6B01FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=6B01FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=6B01FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/-DATABRICKS-0D1117?style=for-the-badge&logo=databricks&logoColor=6B01FF&labelColor=0D1117"/>
 
 </div>
 
@@ -90,13 +84,13 @@ motto: "Always improving and learning."
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/Java-6B01FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-7A1FFF?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-5A00CC?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-5A00CC?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-8A3DFF?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/DATABRICKS-5A00CC?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 </div>
 
+---
 
 > *"Always improving and learning."* 🚀
 
