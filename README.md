@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B01FF&height=200&section=header&text=Rafael%20Cremasco&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Systems%20Development%20|%20Backend%20|%20Programming&descAlignY=55&descAlign=50"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6B01FF&size=30&center=true&vCenter=true&width=1000&lines=💻+Systems+Development+Student;⚙️+Backend+Developer+Enthusiast;📍+Penha,+SP+—+Senai;🎯+Always+Learning+New+Technologies;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6B01FF&size=30&center=true&vCenter=true&width=1000&lines=💻+Systems+Development+Student;⚙️+Backend+Developer+Enthusiast;⚙️+Database+Analytic;📍+Penha,+SP+—+Senai;🎯+Always+Learning+New+Technologies;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ---
 
 ## 🌐 Connect with me
 
-<a href="https://www.instagram.com/rs_cremiii" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="" target="_blank">
+<img src=""/>
 </a>
 
 ---
@@ -16,15 +16,16 @@
 
 ```yaml
 name: "Rafael Cremasco"
-age: 18
+age: 19
 location: "Penha, SP — Brasil"
 
 education:
   - "Systems Development @ Senai"
+  - "Data Analytics @ Senai"
 
 focus:
   - "Backend Development"
-  - "Programming"
+  - "Database Analytic"
 
 status: "Studying & Building"
 
@@ -96,21 +97,6 @@ motto: "Always improving and learning."
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=dark&background=0D1117&ring=6B01FF&fire=6B01FF&currStreakLabel=6B01FF&border=6B01FF"/>
-
-</div>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=cremiS2&color=6B01FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 > *"Always improving and learning."* 🚀
 
