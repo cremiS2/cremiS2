@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B01FF&height=200&section=header&text=Rafael%20Cremasco&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Systems%20Development%20|%20Backend%20|%20Programming&descAlignY=55&descAlign=50"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B01FF&height=200&section=header&text=Rafael%20Cremasco&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Systems%20Development%20|%20Backend%20|%20Database%20Analytic&descAlignY=55&descAlign=50"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6B01FF&size=30&center=true&vCenter=true&width=1000&lines=💻+Systems+Development+Student;⚙️+Backend+Developer+Enthusiast;⚙️+Database+Analytic;📍+Penha,+SP+—+Senai;🎯+Always+Learning+New+Technologies;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
